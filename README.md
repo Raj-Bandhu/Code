@@ -1,1 +1,1 @@
-A code repisotory for later reference
+A code repository for later reference
